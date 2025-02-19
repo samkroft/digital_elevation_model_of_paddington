@@ -2,4 +2,4 @@ Paddington is an area in the City of Westminster, in central London, England. A 
 
 This project aims to utilize QGIS in modelling the digital elevation of Paddington and its environment.
 
-![paddington_DEM](https://github.com/user-attachments/assets/2ffd51c7-4cd1-4c09-8428-864c99f5e66b)
+![Paddington_DEM](img/paddington.jpg)
